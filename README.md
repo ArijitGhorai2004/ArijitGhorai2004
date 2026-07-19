@@ -1,18 +1,301 @@
-# 💫 About Me:
-👋 Hello, I'm a Computer Science Engineering Student<br><br>I'm passionate about designing and developing software that solves real-world problems. I enjoy learning new technologies, building full-stack applications, and strengthening my problem-solving skills through Data Structures and Algorithms.<br><br>💡 Interests<br><br>Software Engineering<br>Full-Stack Web Development<br>Data Structures & Algorithms<br>Artificial Intelligence & Machine Learning<br>Cloud Computing<br><br>🎯 Current Focus<br><br>Building practical, production-ready projects<br>Improving coding and system design skills<br>Contributing to open-source projects<br>Preparing for Software Development Engineer (SDE) roles<br><br>I'm always eager to learn, collaborate, and take on exciting challenges. Feel free to explore my repositories and connect with me!
+<h1 align="center">Hi 👋, I'm Arijit Ghorai</h1>
 
+<h3 align="center">
+Computer Science & Engineering Student | Software Developer | Open Source Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/devil135299) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arijitp_1708) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ARIJIT GHORAI) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arijitghorai5299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arijitghorai2004@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Developer;Java+Programmer;Backend+Developer;Computer+Vision+Learner;Building+Projects+One+Commit+at+a+Time+🚀" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ArijitGhorai2004&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ArijitGhorai2004&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArijitGhorai2004&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ArijitGhorai2004&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ArijitGhorai2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Computer Science & Engineering Student
+
+💻 Passionate about Software Development
+
+🌱 Currently exploring Backend Development and Computer Vision
+
+⚡ Interested in solving real-world problems through technology
+
+🚀 Always learning new tools and building meaningful projects
+
+---
+
+# 🚀 Currently Learning
+
+- Advanced Python
+- Django
+- Flask
+- SQL Optimization
+- OpenCV
+- Software Engineering
+- Data Structures & Algorithms
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+</p>
+
+---
+
+# ⚙ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+</p>
+
+---
+
+# 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+# 🛠 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArijitGhorai2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitGhorai2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArijitGhorai2004&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArijitGhorai2004&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArijitGhorai2004&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="130">
+
+Python
+
+</td>
+
+<td align="center" width="130">
+
+Java
+
+</td>
+
+<td align="center" width="130">
+
+C
+
+</td>
+
+<td align="center" width="130">
+
+C#
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+Django
+
+</td>
+
+<td align="center">
+
+Flask
+
+</td>
+
+<td align="center">
+
+SQL
+
+</td>
+
+<td align="center">
+
+OpenCV
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+Git
+
+</td>
+
+<td align="center">
+
+GitHub
+
+</td>
+
+<td align="center">
+
+VS Code
+
+</td>
+
+<td align="center">
+
+Linux
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Backend Development
+
+✅ Build Full-Stack Applications
+
+✅ Solve 500+ DSA Problems
+
+✅ Contribute to Open Source
+
+✅ Develop Real-World Software Projects
+
+✅ Secure a Software Engineering Internship
+
+---
+
+# 📌 Featured Projects
+
+⭐ Python Projects
+
+⭐ Django Web Applications
+
+⭐ Flask APIs
+
+⭐ OpenCV Computer Vision Projects
+
+⭐ SQL Database Projects
+
+---
+
+# 📖 Developer Philosophy
+
+> "Code is more than instructions for machines—it's a way to solve problems, create value, and keep learning every day."
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/ArijitGhorai2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Add LinkedIn -->
+<!--
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+-->
+
+<!-- Add Email -->
+<!--
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+-->
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+
+</p>
